@@ -25,12 +25,12 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/languages_full.mk)
 $(call inherit-product, device/watch/w602_wgl/device.mk)
 
 # Inherit some common Omni stuff.
-$(call inherit-product, vendor/omni/config/common.mk)
-$(call inherit-product, vendor/omni/config/gsm.mk)
+$(call inherit-product, vendor/twrp/config/common.mk)
+$(call inherit-product, vendor/twrp/config/gsm.mk)
 
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := w602_wgl
-PRODUCT_NAME := omni_w602_wgl
+PRODUCT_NAME := twrp_w602_wgl
 PRODUCT_BRAND := w602
 PRODUCT_MODEL := Q1
 PRODUCT_MANUFACTURER := watch

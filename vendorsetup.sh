@@ -16,5 +16,5 @@
 # limitations under the License.
 #
 
-add_lunch_combo omni_w602_wgl-userdebug
-add_lunch_combo omni_w602_wgl-eng
+add_lunch_combo twrp_w602_wgl-userdebug
+add_lunch_combo twrp_w602_wgl-eng

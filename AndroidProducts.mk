@@ -17,4 +17,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-     $(LOCAL_DIR)/omni_w602_wgl.mk
+     $(LOCAL_DIR)/twrp_w602_wgl.mk
