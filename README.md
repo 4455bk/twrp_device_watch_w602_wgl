@@ -1,1 +1,1 @@
-twrp_device_watch_w602_wgl
+Twrp tree for FinoWatch Q1
